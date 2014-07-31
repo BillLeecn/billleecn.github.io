@@ -132,6 +132,11 @@ pre {
   position: relative;
   overflow: hidden;
   padding: 20px 15px 0;
+  line-height: 1.5;
+}
+
+.post p {
+  text-indent: 1.8em;
 }
 
 .post > .container,
