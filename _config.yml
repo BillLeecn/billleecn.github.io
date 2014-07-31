@@ -1,5 +1,5 @@
-name: Wangana
-description:  Perfect for powering your GitHub hosted blog.
+name: Yangli's Blog
+description:  Yangli's person blog.
 
 sass:
   sass_dir: assets/css/_sass
@@ -8,16 +8,16 @@ sass:
 # url: http://nadjetey.github.io
 
 owner:
-    name: Nii Adjetey Sowah
+    name: Yang Li
     twitter: #
-    github: #
-    disqus_shortname: #
+    github: BillLeecn
+    disqus_shortname: yanglisblog
 
 ga_id: #
 ga_username: #
 
 permalink: /:year/:month/:title/
-timezone: Africa/Accra
+timezone: Asia/Shanghai
 
 markdown: redcarpet
 redcarpet:
