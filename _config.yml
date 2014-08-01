@@ -13,8 +13,8 @@ owner:
     github: BillLeecn
     disqus_shortname: yanglisblog
 
-ga_id: #
-ga_username: #
+ga_id: UA-53442315-1
+ga_username: auto
 
 permalink: /:year/:month/:title/
 timezone: Asia/Shanghai
