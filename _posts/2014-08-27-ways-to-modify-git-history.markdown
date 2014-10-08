@@ -13,10 +13,10 @@ comments: on
     git reset HEAD^
     ```
 
-2. 取消上一次 commit (完全丢弃):
+2. 取消最后两个 commit (完全丢弃):
 
     ```
-    git reset --hard HEAD^
+    git reset --hard HEAD^^
     ```
 
 3. 修改上一次的 commit:
