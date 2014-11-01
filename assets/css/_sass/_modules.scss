@@ -157,6 +157,14 @@ pre {
   height: auto;
 }
 
+.post table {
+  margin: 0 auto;
+}
+
+.post th, td {
+  padding: 0 1em 0 0;
+}
+
 .post > .container,
 #wrap > .container {
   padding: 75px 0 60px;
