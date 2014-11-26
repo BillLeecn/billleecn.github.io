@@ -2,6 +2,16 @@
 <script src="{{site.url}}/assets/js/bootstrap.min.js"></script>        
 <script src="{{site.url}}/assets/js/simpleJekyllSearch.js"></script>
 <script src="{{site.url}}/assets/js/jquery.timeago.js"></script>
+{% if page.mathjax %}
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 83
+  }
+});
+</script>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
 <script>
     {% include scripts/timeago.html %}      
     {% include scripts/scroll-effect.html %}    
