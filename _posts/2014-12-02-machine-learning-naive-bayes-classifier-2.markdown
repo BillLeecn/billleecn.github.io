@@ -132,5 +132,5 @@ p(f_1=4 | c=1) &= \frac{1}{10} &= 0.1 \\\\
 
 * Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008, *[Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)*, Cambridge University Press. *[Naive Bayes text classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)*
 
-[naive-bayes-1]: /2014/11/machine-learning-naive-bayes-classifier-1/, "机器学习：朴素贝叶斯分类器（一）"
-[wikipedia-additive-smoothing]: //en.wikipedia.org/wiki/Additive_smoothing, "Additive smoothing"
+[naive-bayes-1]: /2014/11/machine-learning-naive-bayes-classifier-1/ "机器学习：朴素贝叶斯分类器（一）"
+[wikipedia-additive-smoothing]: //en.wikipedia.org/wiki/Additive_smoothing "Additive smoothing"
