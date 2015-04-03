@@ -7,7 +7,7 @@ tags:
     - hk2
     - java
     - inversion of control
-commments: true
+comments: true
 ---
 
 [Jersey][jersey framework] 是 Java API for RESTful Service (JAX-RS) 的参考实现。Jersey 利用 Java 中的标注（Annotion），声明式地定义每个资源的路径、数据类型，并能自动把 Java bean 转换成定义的数据类型，同时支持从指定的 Java packages 中发现资源类；这些功能使开发者能够免去手工编写初始化代码、解析 JSON 结构等重复性的劳动，专注于业务逻辑的编程。
