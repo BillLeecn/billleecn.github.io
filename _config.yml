@@ -19,6 +19,8 @@ ga_username: auto
 permalink: /:year/:month/:title/
 timezone: Asia/Shanghai
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
+    syntax_highlighter: rouge

@@ -27,7 +27,6 @@ Grunt 依赖于 node.js 和 npm. 它分为 grunt-cli 和 grunt 两个 package. �
 
     ```
     npm install --save-dev grunt
-
     ```
 
 ## 配置文件 Gruntfile.js
